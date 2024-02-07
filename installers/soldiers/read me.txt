@@ -1,0 +1,13 @@
+1- run VC_redist.x64.exe or vc_redist.x86.exe According to processor infrastructure
+
+2- run soldiers.exe and select create a desktop shortcut
+
+3- right click on app shortcut at desktop and select properties
+
+4- select compatibility
+
+5- select run the program as an administrator
+
+6- click ok
+
+note => dataBase is in 'C:\Program Files (x86)\soldiers\.dart_tool\sqflite_common_ffi\databases' 
