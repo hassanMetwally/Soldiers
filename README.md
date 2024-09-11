@@ -6,6 +6,9 @@ Flutter desktop app that automatically plans and schedules vacations and returns
 - Crafted a cohesive visual style guide for the company, standardizing typography and color schemes, resulted in a 30% reduction in design revisions.
 
 
+## App view       Since Soldier's names are sensitive, I have presented them in an encrypted manner.
+
+
 ## App view
 ![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/1.png)
 
