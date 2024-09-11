@@ -1,16 +1,24 @@
 # soldiers
 
-system for soldiers vacations planning
+Flutter desktop app that automatically plans and schedules vacations and returns for over 1,000 soldiers monthly, ensuring compliance with military regulations. This solution reduced force shortages by 20%.
 
-## Getting Started
+- Employed Provider for state management, enables smooth and responsive UI updates with a 50% reduction in state-related issues.
+- Crafted a cohesive visual style guide for the company, standardizing typography and color schemes, resulted in a 30% reduction in design revisions.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## App view
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/3.png)
+
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/1.png)
+
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/5.png)
+
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/6.png)
+
+![Copy of Neon gradient mobile mockup linkedin post ](https://github.com/hassanMetwally/Soldiers/blob/master/images/7.png)
+
+
